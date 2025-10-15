@@ -38,8 +38,6 @@ Currently working on projects that connect IT support, app development, and cine
 
 ---
 
----
-
 ### 📊 GitHub Stats
 
 ![Gofaone's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gofaone-P&show_icons=true&theme=radical)
