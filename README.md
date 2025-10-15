@@ -34,3 +34,14 @@ Currently working on projects that connect IT support, app development, and cine
 ---
 
 ⭐ *“Technology is the art of solving human problems efficiently.”*
+
+
+---
+
+---
+
+### 📊 GitHub Stats
+
+![Gofaone's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gofaone-P&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Gofaone-P&layout=compact&theme=radical)
+
